@@ -1,0 +1,8 @@
+Laptop
+Mobile_Phone
+Portable_Charger_1
+Portable_Charger_2
+Water
+Tablet
+Cosmetic
+Nonmetallic_Lighter
